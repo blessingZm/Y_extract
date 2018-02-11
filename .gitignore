@@ -1,0 +1,18 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.db
+
+# Python:
+__pycache__\
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# My Files
+db_files/
+Y_files/
